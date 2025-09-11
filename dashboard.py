@@ -19,7 +19,7 @@ except FileNotFoundError:
 
 
 # --- App Title and Description ---
-st.title("Live Loan Risk Prediction Dashboard 📊")
+st.title("Live Loan Risk Prediction Dashboard")
 st.write(
     "This dashboard predicts the risk of a new customer defaulting on their loan. "
     "Enter the customer's details in the sidebar to get a live prediction."
